@@ -45,6 +45,12 @@ root.render(
         </div>
       </div>
     </div>
+    <div className="coder mt-1">
+      <small>
+        <a href="https://github.com/Martinaroque">Open-source code</a> by
+        Martina Castro Roque
+      </small>
+    </div>
   </React.StrictMode>
 );
 
